@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LoginFBView" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/blueHeavy</item>
+        <item name="colorPrimaryDark">@color/blueLight</item>
+        <item name="colorAccent">@color/blueWhite</item>
+    </style>
+
+    <style name="Theme.LoginFBView" parent="Base.Theme.LoginFBView" />
+</resources>
